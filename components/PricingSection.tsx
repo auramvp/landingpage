@@ -21,8 +21,8 @@ const plans = [
     ],
     buttonText: "Começar Grátis",
     links: {
-      monthly: "https://pay.auraalmoxarifado.com.br/?plan=free&cycle=monthly",
-      yearly: "https://pay.auraalmoxarifado.com.br/?plan=free&cycle=yearly"
+      monthly: "https://app.auraalmoxarifado.com.br/#/?flow=onboarding&plan=free",
+      yearly: "https://app.auraalmoxarifado.com.br/#/?flow=onboarding&plan=free"
     },
     discount: "0%",
     popular: false
